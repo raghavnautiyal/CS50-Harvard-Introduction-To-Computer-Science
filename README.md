@@ -56,5 +56,5 @@ This repository contains all of my solutions for Harvard's CS50 - an introductio
 
  - [Finance](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%208%20-%20Web%20Track/Finance) 
 
-- Final Project - Coming soon!
+Final Project - Coming soon!
  
