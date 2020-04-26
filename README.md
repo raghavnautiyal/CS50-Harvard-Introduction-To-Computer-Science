@@ -1,6 +1,6 @@
-# CS50-Harvard-Introduction-To-Computer-Science 
+# CS50 - Harvard's Introduction To The Intellectual Enterprises of Computer Science and The Art of Programming
 
-This repository contains all of my solutions for Harvard's CS50 - an introduction to computer science. Feel free to use my code to understand the problems, but do not copy it outright, as it would be a violation of the course's academic honesty policy. All of these solutions have received 100% on submission :) 
+This repository contains all of my solutions for Harvard's CS50 - an introduction to the intellectual enterprises of computer science and the art of programming. I hope my solutions are helpful to other students :) Feel free to use my code to understand the problems, but do not copy it outright, as it would be a violation of the course's academic honesty policy. All of these solutions have received 100% on submission :) 
 
  # Table of contents 
  [Problem Set 1 - Intro to C ](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%201%20-%20Intro%20to%20C)
@@ -56,4 +56,5 @@ This repository contains all of my solutions for Harvard's CS50 - an introductio
 
  - [Finance](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%208%20-%20Web%20Track/Finance) 
 
+- Final Project - Coming soon!
  
