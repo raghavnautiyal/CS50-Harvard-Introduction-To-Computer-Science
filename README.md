@@ -17,7 +17,7 @@ This repository contains all of my solutions for Harvard's CS50 - an introductio
 
  - [Readability](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%202%20-%20Arrays/readability) 
 
- [Problem Set 3 -Algorithms](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%203%20-%20Algorithms)
+ [Problem Set 3 - Algorithms](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%203%20-%20Algorithms)
 
  - [Plurality](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%203%20-%20Algorithms/pluralityc) 
 
