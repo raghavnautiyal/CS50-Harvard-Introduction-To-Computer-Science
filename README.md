@@ -6,9 +6,9 @@ This repository contains all of my solutions for Harvard's CS50 - an introductio
 
  [Problem Set 1 - Intro to C ](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/tree/master/Problem%20Set%201%20-%20Intro%20to%20C)
  
-    [Hello](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/blob/master/Problem%20Set%201%20-%20Intro%20to%20C/Hello.c)
+ - [Hello](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/blob/master/Problem%20Set%201%20-%20Intro%20to%20C/Hello.c)
   
-    [Mario](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/blob/master/Problem%20Set%201%20-%20Intro%20to%20C/Mario.c)
+ - [Mario](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/blob/master/Problem%20Set%201%20-%20Intro%20to%20C/Mario.c)
   
-    [Cash](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/blob/master/Problem%20Set%201%20-%20Intro%20to%20C/Cash.c)
+ - [Cash](https://github.com/raghavnautiyal/CS50-Harvard-Introduction-To-Computer-Science/blob/master/Problem%20Set%201%20-%20Intro%20to%20C/Cash.c)
     
